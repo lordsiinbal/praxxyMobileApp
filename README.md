@@ -14,4 +14,4 @@ once you are able to download this repository open your terminal and go the loca
    5. select the device
    6. Run the App
 # 'Module not found: Error: [CaseSensitivePathsPlugin]' it is a wrong filename
-This error was not caused by the program, but it occurred when I uploaded the project on github.
+This error was not caused by the program, but occurred after uploading the project to GitHub.
